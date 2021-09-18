@@ -1,0 +1,108 @@
+{
+  "person": [
+    {
+    "voornaam": "Jamie-Lee",
+    "achternaam ": "Hart",
+    "email ": "jamihart@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/jamie-lee.jpg",
+    "lijfspreuk": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-jamihart",
+        "LinkedIn_gebruikersnaam": "Jamie-lee Hart"
+    },
+    "student": true,
+    "geboortedatum": 881535600000
+    },
+    {
+    "voornaam": "Sybren",
+    "achternaam ": "De boever",
+    "email ": "sybren.deboever@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/sybren.jpg",
+    "lijfspreuk": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-sybrdebo",
+        "LinkedIn_gebruikersnaam": "Sybren De Boever"
+    },
+    "student": true,
+    "geboortedatum": 842306400000
+    },
+    {
+    "voornaam": "Philippe",
+    "achternaam ": "De Pauw - Waterschoot",
+    "email ": "philippe.depauw@arteveldehs.be",
+    "thumbnail": "./static/media/images/phillipe.jpg",
+    "lijfspreuk": "Before software can be reusable it first has to be usable.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "drdynscript",
+        "LinkedIn_gebruikersnaam": "Philippe De Pauw - Waterschoot"
+    },
+    "student": false,
+    "geboortedatum": 1639263600000
+    },
+    {
+    "voornaam": "Mathieu",
+    "achternaam ": "Spillebeen",
+    "email ": "mathieu.spillebeen@arteveldehs.be",
+    "thumbnail": "./static/media/images/mathieu.jpg",
+    "lijfspreuk": "The best method for accelerating a computer is the one that boosts it by 9.8 m/s2. ",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "mathieuspil",
+        "LinkedIn_gebruikersnaam": "Mathieu Spillebeen"
+    },
+    "student": false,
+    "geboortedatum": 672012000000
+    },
+    {
+    "voornaam": "Arthur",
+    "achternaam ": "Temmerman",
+    "email ": "arthur.temmerman@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/arthur.jpg",
+    "lijfspreuk": "I think Microsoft named .Net so it wouldn’t show up in a Unix directory listing. ",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-arthtemm",
+        "LinkedIn_gebruikersnaam": "Arthur Temmerman"
+    },
+    "student": true,
+    "geboortedatum": 882054000000
+    },
+    {
+    "voornaam": "Jan",
+    "achternaam ": "Deschacht",
+    "email ": "jan.deschacht@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/jan.jpg",
+    "lijfspreuk": "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-jandeschacht",
+        "LinkedIn_gebruikersnaam": "Jan Deschacht"
+    },
+    "student": true,
+    "geboortedatum": 867967200000
+    },
+    {
+    "voornaam": "Jeroen",
+    "achternaam ": "Dewelde",
+    "email ": "jeroen.dewelde@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/jeroen.jpg",
+    "lijfspreuk": "There are two ways to write error-free programs; only the third one works.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-jeroendewelde",
+        "LinkedIn_gebruikersnaam": "Jeroen Dewelde"
+    },
+    "student": true,
+    "geboortedatum": 756082800000
+    },
+    {
+    "voornaam": "Thomas",
+    "achternaam ": "Maelfait",
+    "email ": "thomas.maelfait@student.arteveldehs.be",
+    "thumbnail": "./static/media/images/thomas.jpg",
+    "lijfspreuk": "Ready, fire, aim: the fast approach to software development. Ready, aim, aim, aim, aim: the slow approach to software development.",
+    "portfolio" : {
+        "GitHub_gebruikersnaam": "pgm-thommael",
+        "LinkedIn_gebruikersnaam": "Thomas Maelfait"
+    },
+    "student": true,
+    "geboortedatum": 790988400000
+    }
+  ]
+}
